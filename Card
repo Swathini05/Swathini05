@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width,initial-
+scale=1">
+<style>
+.card{
+box-shadow: O 4px 8px O
+rgba(0,0,0,0.2);
+transition: 0.3s;
+width: 40%;
+border-radius: 5px;
+}
+.card:hover{
+box-shadow: O 8px 16px O
+rgba(0,0,0,0.2);
+}
+img {
+border-radius: 5px 5px 0 0;
+}
+.container {
+padding: 2px 16px;
+}
+</style>
+</head>
+<body>
+<h2>Card</h2>
+<div class="card">
+<img src="img_avatar2.png"
+alt="Avatar" style="width:100%">
+<div class="container">
+<h4><b>Swathini</b></h4>
+<p>FullStack Developer</p>
+</div>
+</div>
+</body>
+</html>
+
+<!---
+Swathini05/Swathini05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
